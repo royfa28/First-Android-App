@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Game4Sell</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cart">Cart</string>
+
+    <string name="description">Description</string>
+    <string name="seller">Other seller</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_product_view">Product Details</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_navigation">Homepage</string>
+    <string name="username">Username</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Products">Products</string>
+    <string name="Categories">Categories</string>
+    <string name="Sell">Sell with us</string>
+    <string name="Wishlist">Wish list</string>
+    <string name="Order">OrderHistory</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+
+    <!-- Login Register function -->
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+</resources>
